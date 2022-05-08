@@ -1,0 +1,12 @@
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.deps.json
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.Core.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfoInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfo.cs
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.Core.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.csproj.AssemblyReference.cache

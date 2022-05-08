@@ -1,0 +1,10 @@
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+E:\CAN\repos-D\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.AssemblyReference.cache

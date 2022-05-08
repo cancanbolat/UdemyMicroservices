@@ -1,0 +1,15 @@
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.deps.json
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.AssemblyReference.cache
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CopyComplete
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.dll
+E:\CAN\repos-D\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb

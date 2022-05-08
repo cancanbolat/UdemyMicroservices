@@ -1,0 +1,416 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj": {}
+  },
+  "projects": {
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj",
+        "projectName": "FreeCourse.Services.Order.API",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj",
+        "projectName": "FreeCourse.Services.Order.Application",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj"
+              },
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj"
+              },
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj",
+        "projectName": "FreeCourse.Services.Order.Domain.Core",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj",
+        "projectName": "FreeCourse.Services.Order.Domain",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj",
+        "projectName": "FreeCourse.Services.Order.Infrastructure",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj": {
+                "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectName": "FreeCourse.Shared",
+        "projectPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\CAN\\repos-D\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetcore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<CourseViewModel>
+
+<h2>Kurslar</h2>
+<hr />
+
+<div class="card-deck">
+    @foreach (var i in Model)
+    {
+
+        <div class="card">
+            <img class="card-img-top" src="@i.StockPictureUrl" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">@i.Name</h5>
+                <div class="badge bg-primary">
+                    Kategori: @i.Category.Name
+                </div>
+                <p class="card-text">@i.ShortDescription</p>
+                <h4 class="text-primary">@i.Price ₺</h4>
+                <a asp-controller="Home" asp-action="Detail" asp-route-id="@i.Id" class="btn btn-success">Detay</a>
+            </div>
+        </div>
+    }
+</div>
